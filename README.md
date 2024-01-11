@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alfonso</h1>
 <h3 align="center">Telecommunications and blockchain engineer. I am looking forward to see what Web3 and DeFi can bring us in the future.</h3>
 
-- 🔭 I’m currently working on [Woonkly Labs](https://kubic.com/)
-
 - 🌱 I’m currently learning **about AI, prompt engineering and LLM's.**
 
 - 💬 Ask me about **decentralization opportunities for your business.**
